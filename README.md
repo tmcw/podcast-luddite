@@ -12,7 +12,7 @@ All of these are from Homebrew
 - aria2c
 - parallel
 
-Run `touch ~/.parallel/will-cite` to turn off the paralle nagware.
+Run `touch ~/.parallel/will-cite` to turn off the parallel nagware.
 
 ### Using it
 
