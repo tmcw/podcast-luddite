@@ -25,3 +25,6 @@ $ podcast-luddite.sh overcast.opml
 
 This will download the RSS feeds, let you pick podcasts, then let you pick episodes to download,
 and then download them.
+
+This uses fzf's `-m` flag to allow multiple selections: so press Tab to select multiple items,
+and use arrow keys or j/k to navigate the list.
